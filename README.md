@@ -1,5 +1,5 @@
-![icon](https://github.com/user-attachments/assets/6961fda9-9198-4de5-8eee-64d11c7c626e)
-
-# Molex
- Mundo Molex do Minecraft
-
+<div align="center">
+  <img src="https://github.com/Docmine17/Molex/blob/1a73acf9cf8c6deb3b3d3856ce7044412625b25a/icon.png" width="92">
+  <h1 align="center">Molex</h1>
+  <p align="center">Mundo do Minecraft pertencente ao Grupo Molex</p>
+</div>
