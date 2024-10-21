@@ -6324,5 +6324,95 @@
     },
     "done": true
   },
-  "DataVersion": 3953
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-20 19:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-20 19:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2024-10-20 19:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2024-10-20 19:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2024-10-20 19:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2024-10-20 19:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2024-10-20 19:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2024-10-20 19:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_trapdoor_from_honeycomb": {
+    "criteria": {
+      "has_copper_trapdoor": "2024-10-20 19:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper_slab": "2024-10-20 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2024-10-20 19:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_door_from_honeycomb": {
+    "criteria": {
+      "has_copper_door": "2024-10-20 23:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-10-21 00:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-10-21 00:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-10-21 00:44:00 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
 }
