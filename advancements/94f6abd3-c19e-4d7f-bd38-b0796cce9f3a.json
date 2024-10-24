@@ -5303,5 +5303,35 @@
     },
     "done": true
   },
-  "DataVersion": 4080
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-23 19:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-23 19:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2024-10-23 20:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_the_recipe": "2024-10-23 20:21:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-10-23 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4082
 }
