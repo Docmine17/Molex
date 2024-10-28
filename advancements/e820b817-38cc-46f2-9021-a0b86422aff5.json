@@ -454,6 +454,8 @@
       "cooked_porkchop": "2023-06-12 23:38:07 +0000",
       "golden_apple": "2024-06-18 23:45:16 +0000",
       "honey_bottle": "2024-06-25 00:03:42 +0000",
+      "cookie": "2024-10-27 23:22:49 +0000",
+      "suspicious_stew": "2024-10-27 23:18:39 +0000",
       "cooked_mutton": "2023-05-02 23:49:52 +0000",
       "salmon": "2023-06-25 22:33:11 +0000",
       "cooked_beef": "2023-05-01 23:49:57 +0000",
@@ -6663,6 +6665,24 @@
   "minecraft:adventure/trade_at_world_height": {
     "criteria": {
       "trade_at_world_height": "2024-10-27 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-10-28 00:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-10-28 01:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/blowback": {
+    "criteria": {
+      "blowback": "2024-10-28 00:00:32 +0000"
     },
     "done": true
   },
