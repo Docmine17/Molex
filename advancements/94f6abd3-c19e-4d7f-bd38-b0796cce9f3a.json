@@ -6103,5 +6103,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-08 01:19:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
