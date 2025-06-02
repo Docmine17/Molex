@@ -6139,5 +6139,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-20 21:35:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }

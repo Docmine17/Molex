@@ -4018,12 +4018,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-03 22:25:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-05-13 00:37:01 +0000"
@@ -6966,6 +6960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-03 22:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
       "has_leaves": "2025-04-03 22:35:32 +0000"
@@ -6981,6 +6981,18 @@
   "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
     "criteria": {
       "has_cactus_flower": "2025-04-03 23:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_white_dye": "2025-05-31 22:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_gray_bundle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-05-31 22:55:55 +0000"
     },
     "done": true
   },
