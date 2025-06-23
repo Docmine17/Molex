@@ -3012,12 +3012,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-06-16 00:29:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-06-16 00:29:58 +0000"
@@ -3678,12 +3672,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-18 14:21:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2024-06-18 14:21:56 +0000"
@@ -3697,12 +3685,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-18 14:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2024-06-18 14:21:56 +0000"
     },
@@ -4351,18 +4333,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_black_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-20 23:34:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-20 23:34:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2024-06-20 23:34:51 +0000"
     },
@@ -5076,12 +5046,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-10-22 17:55:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2024-10-22 17:55:30 +0000"
@@ -5091,12 +5055,6 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-10-22 17:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-10-22 17:55:30 +0000"
     },
     "done": true
   },
@@ -5112,12 +5070,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_lime_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-10-22 17:55:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_lime_wool": {
     "criteria": {
       "has_needed_dye": "2024-10-22 17:55:38 +0000"
@@ -5130,21 +5082,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_lime_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-10-22 17:55:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2024-10-22 17:56:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-10-22 17:56:26 +0000"
     },
     "done": true
   },
@@ -5169,12 +5109,6 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2024-10-22 17:56:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-10-22 17:56:26 +0000"
     },
     "done": true
   },
@@ -5707,21 +5641,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-10-27 02:22:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2024-10-27 02:22:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-10-27 02:22:55 +0000"
     },
     "done": true
   },
@@ -5947,18 +5869,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-01-05 18:57:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-05 18:57:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-05 18:57:07 +0000"
@@ -5989,12 +5899,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-01-05 19:10:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_green_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-05 19:10:09 +0000"
@@ -6010,12 +5914,6 @@
   "minecraft:recipes/tools/green_bundle": {
     "criteria": {
       "has_green_dye": "2025-01-05 19:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-05 19:10:09 +0000"
     },
     "done": true
   },
@@ -6307,5 +6205,35 @@
     },
     "done": true
   },
-  "DataVersion": 4325
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-21 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-21 21:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-06-21 23:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-22 01:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-22 01:48:34 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4435
 }
