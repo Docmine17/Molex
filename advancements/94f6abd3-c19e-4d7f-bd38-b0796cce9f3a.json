@@ -244,6 +244,7 @@
       "honey_bottle": "2024-06-18 00:34:43 +0000",
       "cookie": "2024-06-17 20:29:48 +0000",
       "suspicious_stew": "2024-10-27 23:16:33 +0000",
+      "cooked_mutton": "2025-12-10 20:27:31 +0000",
       "glow_berries": "2024-10-22 21:35:40 +0000",
       "cooked_beef": "2024-06-14 01:12:49 +0000",
       "baked_potato": "2024-06-20 22:19:21 +0000",
@@ -314,27 +315,28 @@
       "minecraft:pillager": "2024-06-14 00:22:45 +0000",
       "minecraft:blaze": "2024-10-26 22:04:38 +0000",
       "minecraft:skeleton": "2024-06-13 17:32:39 +0000",
-      "minecraft:phantom": "2024-06-14 00:29:50 +0000",
-      "minecraft:zombified_piglin": "2024-06-19 14:33:36 +0000",
-      "minecraft:witch": "2024-06-14 23:40:02 +0000",
-      "minecraft:wither_skeleton": "2024-10-26 22:03:07 +0000",
+      "minecraft:parched": "2025-12-09 18:42:40 +0000",
       "minecraft:ravager": "2024-06-25 01:16:08 +0000",
-      "minecraft:husk": "2024-06-18 23:37:51 +0000",
       "minecraft:bogged": "2024-06-13 23:25:49 +0000",
       "minecraft:guardian": "2024-06-23 19:08:59 +0000",
       "minecraft:breeze": "2024-06-13 23:54:42 +0000",
       "minecraft:vindicator": "2024-06-25 01:12:49 +0000",
       "minecraft:creaking": "2024-12-14 20:25:28 +0000",
+      "minecraft:spider": "2024-06-12 00:49:05 +0000",
+      "minecraft:creeper": "2024-06-12 00:48:46 +0000",
+      "minecraft:slime": "2024-06-18 23:48:53 +0000",
+      "minecraft:phantom": "2024-06-14 00:29:50 +0000",
+      "minecraft:zombified_piglin": "2024-06-19 14:33:36 +0000",
+      "minecraft:witch": "2024-06-14 23:40:02 +0000",
+      "minecraft:wither_skeleton": "2024-10-26 22:03:07 +0000",
+      "minecraft:husk": "2024-06-18 23:37:51 +0000",
       "minecraft:enderman": "2024-06-02 17:59:24 +0000",
       "minecraft:silverfish": "2024-06-14 00:42:55 +0000",
       "minecraft:stray": "2024-06-18 23:41:29 +0000",
       "minecraft:endermite": "2024-06-15 23:59:44 +0000",
-      "minecraft:spider": "2024-06-12 00:49:05 +0000",
       "minecraft:zombie": "2024-06-12 01:04:56 +0000",
-      "minecraft:creeper": "2024-06-12 00:48:46 +0000",
       "minecraft:drowned": "2024-06-13 17:19:19 +0000",
-      "minecraft:zombie_villager": "2024-06-13 17:32:50 +0000",
-      "minecraft:slime": "2024-06-18 23:48:53 +0000"
+      "minecraft:zombie_villager": "2024-06-13 17:32:50 +0000"
     },
     "done": false
   },
@@ -609,12 +611,6 @@
     "done": true
   },
   "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2024-06-13 17:02:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-06-13 17:02:36 +0000"
     },
@@ -3896,30 +3892,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_exposed_copper_bulb": "2024-06-19 00:35:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_weathered_copper_bulb": "2024-06-19 00:35:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_copper_bulb": "2024-06-19 00:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper_bulb": "2024-06-19 00:36:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2024-06-19 14:36:26 +0000"
@@ -5009,18 +4981,6 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2024-10-20 18:24:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_door_from_honeycomb": {
-    "criteria": {
-      "has_copper_door": "2024-10-20 19:24:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_trapdoor_from_honeycomb": {
-    "criteria": {
-      "has_copper_trapdoor": "2024-10-20 19:24:27 +0000"
     },
     "done": true
   },
@@ -6471,5 +6431,197 @@
     },
     "done": true
   },
-  "DataVersion": 4438
+  "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_copper_chest": "2025-10-18 01:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-10-18 01:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-18 01:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_shelf": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-10-18 01:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-10-19 20:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_shelf": {
+    "criteria": {
+      "has_stripped_cherry_log": "2025-10-19 20:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-10-19 20:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_shelf": {
+    "criteria": {
+      "has_stripped_birch_log": "2025-10-19 20:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_shelf": {
+    "criteria": {
+      "has_stripped_pale_oak_log": "2025-10-19 20:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_exposed_lightning_rod": "2025-10-19 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-10-19 22:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chain": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_sword": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_boots": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-19 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_lightning_rod": "2025-10-19 23:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-09 17:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-12-09 18:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-09 18:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_spear": {
+    "criteria": {
+      "has_stick": "2025-12-09 18:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/spear_many_mobs": {
+    "criteria": {
+      "spear_many_mobs": "2025-12-09 18:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_nautilus_armor": "2025-12-10 17:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_copper_nautilus_armor": "2025-12-10 17:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-10 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4671
 }

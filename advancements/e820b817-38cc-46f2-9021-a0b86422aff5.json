@@ -134,12 +134,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2023-05-01 23:37:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2023-05-01 23:37:45 +0000"
@@ -7297,5 +7291,29 @@
     },
     "done": true
   },
-  "DataVersion": 4440
+  "minecraft:recipes/decorations/iron_chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-20 17:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_shelf": {
+    "criteria": {
+      "has_stripped_pale_oak_log": "2025-10-20 17:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_shelf": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-10-20 17:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_shelf": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-10-20 17:40:45 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4556
 }
