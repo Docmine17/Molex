@@ -254,6 +254,7 @@
       "enchanted_golden_apple": "2024-06-19 01:00:24 +0000",
       "potato": "2024-06-20 22:51:03 +0000",
       "cooked_cod": "2024-06-25 23:56:33 +0000",
+      "cooked_salmon": "2025-12-13 18:21:05 +0000",
       "pumpkin_pie": "2024-06-17 20:30:51 +0000"
     },
     "done": false
@@ -318,6 +319,7 @@
       "minecraft:parched": "2025-12-09 18:42:40 +0000",
       "minecraft:ravager": "2024-06-25 01:16:08 +0000",
       "minecraft:bogged": "2024-06-13 23:25:49 +0000",
+      "minecraft:camel_husk": "2025-12-13 17:03:10 +0000",
       "minecraft:guardian": "2024-06-23 19:08:59 +0000",
       "minecraft:breeze": "2024-06-13 23:54:42 +0000",
       "minecraft:vindicator": "2024-06-25 01:12:49 +0000",
@@ -5082,6 +5084,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:nautilus": "2025-12-13 17:59:45 +0000",
+      "minecraft:camel": "2025-12-13 17:08:29 +0000",
       "minecraft:wolf": "2024-10-27 00:01:37 +0000",
       "minecraft:rabbit": "2024-10-22 17:58:42 +0000"
     },
@@ -6620,6 +6624,48 @@
   "minecraft:recipes/combat/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2025-12-10 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_green_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 19:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_black_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 19:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 19:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-12-13 19:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2025-12-13 22:01:36 +0000"
     },
     "done": true
   },
