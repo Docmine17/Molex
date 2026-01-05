@@ -7437,21 +7437,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_horse_armor_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-01 20:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_spear_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-01 20:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/copper_chain": {
     "criteria": {
       "has_copper_ingot": "2026-01-01 21:27:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_lightning_rod_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_lightning_rod": "2026-01-01 22:45:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
-    "criteria": {
-      "has_lightning_rod": "2026-01-01 21:27:33 +0000"
     },
     "done": true
   },
@@ -7479,12 +7479,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_horse_armor_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-01-01 20:20:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/copper_helmet": {
     "criteria": {
       "has_copper_ingot": "2026-01-01 21:27:21 +0000"
@@ -7500,12 +7494,6 @@
   "minecraft:recipes/tools/copper_shovel": {
     "criteria": {
       "has_copper_ingot": "2026-01-01 21:27:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_spear_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-01-01 20:20:59 +0000"
     },
     "done": true
   },
@@ -7536,6 +7524,36 @@
   "minecraft:recipes/combat/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2026-01-01 21:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_lightning_rod": "2026-01-01 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_lightning_rod": "2026-01-01 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_shelf": {
+    "criteria": {
+      "has_stripped_birch_log": "2026-01-04 23:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2026-01-04 23:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-01-05 01:10:17 +0000"
     },
     "done": true
   },
