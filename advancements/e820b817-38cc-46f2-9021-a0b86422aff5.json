@@ -5174,6 +5174,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:nautilus": "2025-12-13 18:14:28 +0000",
+      "minecraft:cow": "2026-01-05 19:44:24 +0000",
+      "minecraft:chicken": "2026-01-05 19:44:32 +0000",
       "minecraft:pig": "2024-06-25 01:34:55 +0000",
       "minecraft:wolf": "2024-05-19 20:39:35 +0000",
       "minecraft:rabbit": "2023-06-16 22:34:32 +0000"
@@ -7554,6 +7556,12 @@
   "minecraft:recipes/misc/bordure_indented_banner_pattern": {
     "criteria": {
       "has_vines": "2026-01-05 01:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2026-01-05 19:10:57 +0000"
     },
     "done": true
   },
