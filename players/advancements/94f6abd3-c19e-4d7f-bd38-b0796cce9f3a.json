@@ -4665,12 +4665,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-06-23 15:10:17 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-06-23 15:43:28 -0300"
@@ -4680,12 +4674,6 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-06-23 15:49:30 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-06-23 15:49:30 -0300"
     },
     "done": true
   },
@@ -5181,12 +5169,6 @@
   "minecraft:recipes/decorations/yellow_shulker_box": {
     "criteria": {
       "has_shulker_box": "2024-10-22 15:43:28 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
-    "criteria": {
-      "has_tuff_brick_slab": "2024-10-22 15:50:54 -0300"
     },
     "done": true
   },
@@ -5754,18 +5736,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-14 18:20:22 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_resin_bricks": {
-    "criteria": {
-      "has_resin_brick_slab": "2024-12-14 18:31:53 -0300"
-    },
-    "done": true
-  },
   "minecraft:nether/charge_respawn_anchor": {
     "criteria": {
       "charge_respawn_anchor": "2024-12-14 18:37:11 -0300"
@@ -5997,18 +5967,6 @@
   "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
     "criteria": {
       "has_log": "2025-06-04 14:04:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-04 14:04:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-04 16:27:51 -0300"
     },
     "done": true
   },
@@ -6282,12 +6240,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-03 16:07:04 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-03 16:25:43 -0300"
@@ -6447,12 +6399,6 @@
   "minecraft:recipes/building_blocks/stripped_cherry_wood": {
     "criteria": {
       "has_log": "2025-10-19 17:20:28 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-10-19 17:20:28 -0300"
     },
     "done": true
   },
@@ -6948,5 +6894,5 @@
     },
     "done": true
   },
-  "DataVersion": 4790
+  "DataVersion": 4903
 }
