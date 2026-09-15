@@ -3744,18 +3744,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2024-06-18 19:08:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2024-06-18 19:08:16 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_chiseled_sandstone": "2024-06-18 19:34:54 -0300"
@@ -7533,5 +7521,47 @@
     },
     "done": true
   },
-  "DataVersion": 4903
+  "minecraft:recipes/building_blocks/white_concrete_slab": {
+    "criteria": {
+      "has_white_concrete": "2026-09-15 13:37:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_slab_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-09-15 13:37:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_stairs": {
+    "criteria": {
+      "has_white_concrete": "2026-09-15 13:37:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_stairs_from_white_concrete_stonecutting": {
+    "criteria": {
+      "has_white_concrete": "2026-09-15 13:37:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2026-09-15 13:38:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_stairs": {
+    "criteria": {
+      "has_white_wool": "2026-09-15 13:38:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_cushion": {
+    "criteria": {
+      "has_white_wool_slab": "2026-09-15 13:38:56 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
 }
